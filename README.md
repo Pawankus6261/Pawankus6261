@@ -1,87 +1,367 @@
-<!-- 🚀 Futuristic GitHub Profile README for Pawan Kushwaha -->
+<div align="center">
 
-<h1 align="center">🚀 Hey there, I'm <span style="color:#00d1ff">Pawan Kushwaha</span></h1>
-<h3 align="center">Frontend Developer | AI & ML Enthusiast | CSE Student</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,8,12,20,24&height=200&section=header" width="100%"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D1FF&width=440&lines=Code.+Create.+Innovate." alt="Typing SVG" />
-</p>
+<table>
+<tr><td align="center">
 
----
+# 👋 Hi, I'm Pawan Kushwaha
 
-## 🧠 About Me
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D1FF&center=true&vCenter=true&random=false&width=600&height=40&lines=Full+Stack+Developer;AI+%26+ML+Engineer;Founder+%40+DevLinkHub;Turning+Ideas+Into+Scalable+Software" alt="Typing SVG"/>
 
-- 🎓 B.Tech in Artificial Intelligence & Machine Learning  
-- 💻 I craft clean, responsive UIs and build meaningful web projects  
-- 📚 Strong foundation in DSA, OOPs, and logic building  
-- 🤖 Passionate about AI, web integration, and automation  
-- 🛠️ Currently exploring Flask, FastAPI & building tools with real-world impact  
-- 🎯 Believer in "learning by doing"
+</td></tr>
+</table>
 
----
+<br/>
 
-## 🛠️ My Tech Toolbox
+<!-- Badges row -->
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Pawankus6261.Pawankus6261&style=for-the-badge&color=00d1ff&labelColor=0d1117" alt="profile views"/>
+<img src="https://img.shields.io/github/followers/Pawankus6261?label=FOLLOWERS&style=for-the-badge&color=0072ff&labelColor=0d1117" alt="followers"/>
+<img src="https://img.shields.io/badge/FOUNDER-DevLinkHub-0d1117?style=for-the-badge&labelColor=00d1ff" alt="founder badge"/>
+<img src="https://img.shields.io/badge/STATUS-Open%20to%20Collab-00ffd5?style=for-the-badge&labelColor=0d1117" alt="status badge"/>
 
-### 🌐 Frontend Development
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white)
+<br/><br/>
 
-### ⚙️ Backend & Frameworks
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)
+<!-- Social links -->
+<a href="https://www.linkedin.com/in/pawan-kushwaha-485942326/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:pawankushwaha91719171@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/Pawankus6261" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://github.com/Pawankus6261/Pawankus6261/tree/main" target="_blank">
+  <img src="https://img.shields.io/badge/DevLinkHub-Visit%20Project-00D1FF?style=for-the-badge"/>
+</a>
 
-### 🧠 AI / ML / Data
-![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?logo=scikit-learn&logoColor=white)
+</div>
 
-### 💻 Programming & CS Core
-![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![OOP](https://img.shields.io/badge/-OOP-E34F26?style=flat&logo=codeforces&logoColor=white)
-![Data Structures](https://img.shields.io/badge/-DSA-007ACC?style=flat&logo=hackerrank&logoColor=white)
+<br/>
 
-### 🔧 Tools & Platforms
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white)
-![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white)
+## 🧑‍💻 About Me
 
----
+```yaml
+name: Pawan Kushwaha
+role: Full Stack Developer & AI/ML Engineer
+education: B.Tech - Computer Science (AI & ML Specialization)
+founder_of: DevLinkHub — Developer Community Platform
+title: Founder & Community Head @ DevLinkHub
+focus:
+  - Full Stack Web Development
+  - Artificial Intelligence & Machine Learning
+  - Backend Engineering & System Design
+  - Database Design & API Architecture
+  - Building & Scaling Developer Communities
+philosophy: "Great software is built with purpose, consistency, and continuous improvement."
+status: 🚀 Always Learning • Always Building • Always Improving
+```
 
-## 📌 Featured Projects
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| 🏥 **Vaitra Smart Care** | A smart healthcare web platform for hospital, doctor, and medicine management | HTML, CSS, Flask |
-| ✍️ **Journal Composition Editor** | A step-by-step writing tool with live preview and custom formatting | HTML, CSS, JavaScript |
-| 🎨 **Dribbble Clone UI** | A pixel-perfect frontend clone of Dribbble | HTML, CSS |
-
----
-
-## 📫 Let’s Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/pawan-kushwaha-485942326/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" height="40" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:pawankushwaha91719171@gmail.com" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" height="40" alt="Gmail"/>
-  </a>
-</p>
-
+- 🌟 **Founder & Community Head** of **DevLinkHub** — a developer-focused platform connecting builders, fostering collaboration, and creating opportunities through networking, project showcases, and resource sharing.
+- 🏗️ I design and ship complete end-to-end products — from UI/UX to databases to deployment.
+- 🤖 I love combining **AI with real-world systems** — healthcare, agriculture, and developer tooling.
+- 🧩 Strong fundamentals in **DSA, OOP, DBMS**, and software architecture.
+- 🎯 Currently leveling up in **System Design, Cloud Infrastructure & Scalable Backends**.
+- 🤝 Open to **collaborations, open source, hackathons, and startup ideas**.
 
 ---
 
-## ✨ Final Words
+## 🏆 Founder Spotlight — DevLinkHub
 
-> 🧩 “Code with clarity, design with purpose.”  
-> 💬 Always open to connect, collaborate or contribute.
+<div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d1ff,100:0072ff&height=150&section=footer&text=Thanks%20for%20visiting!&fontColor=ffffff&fontSize=20" />
-</p>
+<table>
+<tr>
+<td width="100%">
+
+### 🌐 DevLinkHub — Developer Community Platform
+**Role:** Founder & Community Head
+
+A community-driven platform built to connect developers worldwide — enabling networking, collaboration, project showcases, and resource sharing, all powered by a modern full stack & AI-integrated architecture.
+
+**Highlights**
+- 👥 Developer Profiles & Community Networking
+- 🚀 Project Showcases & Collaboration Hub
+- 📚 Resource Sharing & Engagement Tools
+- 🔐 Authentication, Payments & AI Integrations
+- ⚙️ Built on Microservices & SaaS Architecture
+
+`Next.js` `React` `Node.js` `Express.js` `FastAPI` `PostgreSQL` `MongoDB` `GraphQL` `Prisma ORM` `Docker` `Redis` `WebSockets`
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+### Frontend
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap&theme=dark" /><br/>
+
+### Backend
+<img src="https://skillicons.dev/icons?i=python,flask,fastapi,nodejs,express,graphql&theme=dark" /><br/>
+
+### Databases & Infra
+<img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,redis,docker,prisma&theme=dark" /><br/>
+
+### AI / ML / Data
+<img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,numpy&theme=dark" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/><br/>
+
+### Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,c&theme=dark" />
+
+</div>
+
+---
+
+## 🎖 Certifications & Learning
+
+| Certification                      | Status              |
+| ----------------------------------- | ------------------- |
+| Google AI Essentials                | 🚧 In Progress       |
+| Microsoft Learn Student Ambassador  | 🚀 Applicant         |
+| Python Programming                  | ✅ Completed         |
+| Full Stack Development              | ✅ Ongoing           |
+| AI & Machine Learning               | 🚀 Active Learning   |
+
+---
+
+## 📅 Developer Journey
+
+```text
+2024 ─ Started Web Development
+   │
+2025 ─ Built Vaitra Healthcare Platform
+   │
+2025 ─ Founded DevLinkHub Community
+   │
+2026 ─ Building AI-Powered Products
+   │
+2026 ─ Expanding into System Design
+   │
+Future ─ Software Engineer & AI Innovator
+```
+
+---
+
+## 💼 Experience Snapshot
+
+### 🚀 Founder & Community Head — DevLinkHub
+- Built and managed a growing developer community
+- Organized hackathons and workshops
+- Led community outreach and partnerships
+- Coordinated technical events and collaborations
+
+### 💻 Full Stack Developer
+- Developed responsive business websites
+- Built backend APIs and dashboard systems
+- Worked with PostgreSQL databases
+- Designed scalable web architectures
+
+---
+
+## 🌟 Core Strengths
+
+```yaml
+Problem Solving:        ██████████ 95%
+Frontend Development:   ██████████ 95%
+Backend Development:    █████████  90%
+Database Design:        █████████  88%
+System Design:          ████████   80%
+Machine Learning:       ████████   80%
+Leadership:             █████████  90%
+Community Building:     ██████████ 95%
+```
+
+---
+
+## 🎯 2026 Goals
+
+- [ ] Reach 500+ GitHub Contributions
+- [ ] Launch DevLinkHub Platform
+- [ ] Build Production SaaS Application
+- [ ] Master System Design
+- [ ] Contribute to Open Source
+- [ ] Complete Advanced AI Projects
+- [ ] Grow Developer Community
+- [ ] Secure Software Engineering Internship
+
+---
+
+## ⚡ Fun Facts
+
+- ☕ I turn coffee into software.
+- 🚀 Founder of DevLinkHub.
+- 🤖 Passionate about AI and automation.
+- 🎨 Enjoy building beautiful user interfaces.
+- 🌱 Always learning new technologies.
+- 💡 Love transforming ideas into products.
+
+---
+
+
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 💊 MediSync Adherence
+Healthcare platform improving medication adherence via smart reminders, dashboards & AI-driven health insights.
+
+`React.js` `FastAPI` `PostgreSQL` `AI Models`
+
+</td>
+<td width="50%" valign="top">
+
+### 🌾 FasalSathii
+Agri-tech platform empowering farmers with crop management tools, insights & data-driven recommendations.
+
+`AI Models` `React` `FastAPI` `PostgreSQL`
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+### 🌐 DevLinkHub Community Platform — *Founder Project*
+A developer community connecting builders for networking, collaboration, and project showcases — with AI integrations and SaaS-grade architecture.
+
+`Next.js` `React` `Node.js` `Express` `FastAPI` `PostgreSQL` `MongoDB` `Prisma` `Docker` `Redis` `GraphQL` `WebSockets`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📈 Weekly Development Breakdown
+
+<!--START_SECTION:waka-->
+```text
+React.js         35%
+Python           25%
+FastAPI          15%
+PostgreSQL       10%
+JavaScript        8%
+Other             7%
+```
+<!--END_SECTION:waka-->
+
+---
+
+
+## 🚀 Open Source Philosophy
+
+> Open source is not just about code.
+>
+> It's about sharing knowledge, solving problems together,
+> and helping the next developer build something amazing.
+
+---
+
+## 📊 Profile Summary Card
+
+<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pawankus6261&theme=tokyonight" width="48%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pawankus6261&theme=tokyonight" width="48%"/>
+<br/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pawankus6261&theme=tokyonight" width="48%"/>
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Pawankus6261&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pawankus6261&theme=tokyonight&hide_border=true" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pawankus6261&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pawankus6261&theme=tokyo-night&hide_border=true" width="100%"/>
+
+</div>
+
+<details>
+<summary>🔥 Click to view trophy showcase</summary>
+<br/>
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Pawankus6261&theme=darkhub&no-frame=true&no-bg=false&row=2&column=4&margin-w=15&margin-h=15"/>
+</div>
+</details>
+
+---
+
+## 🎯 Currently Building & Learning
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🔨 Building**
+- 🌐 Growing the **DevLinkHub** community
+- 💊 Scaling **MediSync Adherence**
+- 🌾 Expanding **FasalSathii** features
+
+</td>
+<td width="50%" valign="top">
+
+**📚 Learning**
+- ⚙️ System Design & Software Architecture
+- ☁️ Cloud Infrastructure & Deployments
+- 🤖 Advanced ML Applications
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🤝 Let's Build Something Together
+
+<div align="center">
+
+I'm always excited to connect with developers, founders, and contributors around:
+
+`Open Source` • `Full Stack Apps` • `AI & ML Projects` • `Startup Ideas` • `Hackathons` • `Developer Communities`
+
+<br/>
+
+<a href="https://www.linkedin.com/in/pawan-kushwaha-485942326/" target="_blank">
+  <img src="https://img.shields.io/badge/Let's%20Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:pawankushwaha91719171@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 Personal Philosophy
+
+*"Technology is most powerful when it solves real problems. Great software isn't just built with code — it's built with purpose, consistency, and a commitment to continuous improvement."*
+
+🚀 **Always Learning • Always Building • Always Improving**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,20,12,8,2&height=150&section=footer"/>
+
+</div>
+
+<!--
+SETUP NOTES:
+1. Snake animation: add this GitHub Action workflow to enable the contribution snake at the top of "GitHub Analytics":
+   https://github.com/Platane/snk -> creates .github/workflows/snake.yml in this repo,
+   which generates the "output" branch with github-contribution-grid-snake-dark.svg
+2. Pin your top repos (DevLinkHub, MediSync, FasalSathii) from your profile page so they appear as cards.
+3. Replace mailto and LinkedIn links if they change.
+-->
