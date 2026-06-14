@@ -26,7 +26,7 @@
 <a href="https://www.linkedin.com/in/pawan-kushwaha-485942326/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:pawankushwaha91719171@gmail.com" target="_blank">
+<a href="mailto:contact.pawan62@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://github.com/Pawankus6261" target="_blank">
@@ -337,7 +337,7 @@ I'm always excited to connect with developers, founders, and contributors around
 <a href="https://www.linkedin.com/in/pawan-kushwaha-485942326/" target="_blank">
   <img src="https://img.shields.io/badge/Let's%20Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:pawankushwaha91719171@gmail.com" target="_blank">
+<a href="mailto:contact.pawan62@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -357,11 +357,3 @@ I'm always excited to connect with developers, founders, and contributors around
 
 </div>
 
-<!--
-SETUP NOTES:
-1. Snake animation: add this GitHub Action workflow to enable the contribution snake at the top of "GitHub Analytics":
-   https://github.com/Platane/snk -> creates .github/workflows/snake.yml in this repo,
-   which generates the "output" branch with github-contribution-grid-snake-dark.svg
-2. Pin your top repos (DevLinkHub, MediSync, FasalSathii) from your profile page so they appear as cards.
-3. Replace mailto and LinkedIn links if they change.
--->
